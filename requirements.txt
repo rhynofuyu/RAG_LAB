@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+pypdf
+langchain
+langchain-google-genai
+langchain-pinecone
+pinecone-client
+sqlite3
+pymupdf
+pandas
+pillow
+cohere
